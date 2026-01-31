@@ -1,33 +1,30 @@
-# Power BI Portfolio
+# Power BI – Seguimiento de Materiales, Insumos y Mermas
 
-Operational and analytical dashboards developed for the agroindustrial sector, focused on:
+## Descripción del proyecto
+Dashboard desarrollado para el seguimiento y control de materiales, insumos y mermas
+en una campaña agroindustrial, con enfoque en costos, abastecimiento y control operativo.
 
-- Inventory and stock control
-- Consumption and rotation analysis
-- Waste (merma) monitoring
-- Budget execution and cost control
-- Logistics and purchase order tracking
+## Dashboards incluidos
+- Seguimiento de consumo de materiales e insumos
+- Control de mermas de empaque y embalaje
+- Análisis de stock por almacén
+- Seguimiento de órdenes de compra
+- Ejecución presupuestal por campaña
 
-## Dashboards Included
+## Indicadores clave (KPIs)
+- Stock actual y cobertura en días
+- Consumo promedio semanal
+- Porcentaje de merma por producto
+- Excedente de merma valorizado
+- Avance de ejecución presupuestal
 
-### 1. Materials & Supplies Monitoring
-Power BI dashboards for:
-- Weekly and daily consumption analysis
-- Stock levels by warehouse
-- Coverage and replenishment alerts
-- Waste analysis by product and category
-
-### 2. Waste Control & Budget Tracking
-Dashboards focused on:
-- Packaging and supplies waste
-- Budget vs executed analysis by campaign
-- Cost center monitoring
-- Operational ratios and financial impact of waste
-
-## Tools Used
+## Herramientas utilizadas
 - Power BI
-- SQL (data extraction)
-- Python (data automation and preprocessing)
+- Power Query
+- DAX
 - Excel
+- ERP Nisira (fuente de datos)
 
-> 📌 Note: Dashboards are shared as PDF versions for visualization purposes.
+## Contexto del negocio
+Proyecto aplicado a un entorno real del sector agroindustrial,
+orientado a la toma de decisiones en costos, logística y planeamiento operativo.
