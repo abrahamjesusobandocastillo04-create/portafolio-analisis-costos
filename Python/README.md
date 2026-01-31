@@ -1,7 +1,7 @@
 # Python – Soporte a Proyectos de Logística, Mantenimiento y Costos
 
 ## Descripción
-Scripts en Python utilizados para **automatizar y controlar información de proyectos** en un entorno agroindustrial,
+Scripts en Python utilizados para automatizar y controlar información de proyectos en un entorno agroindustrial,
 incluyendo logística, mantenimiento y seguimiento de centros de costos.
 
 ## Funcionalidades
