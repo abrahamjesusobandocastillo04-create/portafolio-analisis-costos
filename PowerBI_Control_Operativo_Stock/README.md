@@ -1,20 +1,19 @@
-# Power BI – Seguimiento de Stock y Consumo de Insumos
+# Power BI – Control Operativo de Stock y Consumo
 
-Dashboard desarrollado en Power BI para el seguimiento del stock, consumo y 
-cobertura de materiales e insumos críticos en el área de logística y producción 
-del sector agroindustrial.
+Dashboard desarrollado en Power BI para el control operativo del stock y consumo 
+de materiales, con seguimiento diario y semanal, orientado a la gestión logística 
+y soporte a producción en el sector agroindustrial.
 
 ## Objetivo del Dashboard
-Anticipar quiebres de stock y apoyar la toma de decisiones de reposición mediante 
-indicadores de consumo, cobertura y alertas por plazo de entrega.
+Monitorear el stock disponible, analizar el consumo real y apoyar la toma de 
+decisiones operativas para reposición oportuna de materiales.
 
 ## Principales indicadores
-- Stock por almacén y stock consolidado
-- Consumo semanal y consumo máximo
-- Días de cobertura de inventario
-- Cantidad sugerida por pedir
-- Alertas de reposición según plazo de entrega
-- Seguimiento de órdenes de compra
+- Stock diario por ítem
+- Seguimiento semanal de consumo
+- Gráficos de tendencia de stock
+- Consumo acumulado
+- Control visual para toma de decisiones operativas
 
 ## Herramientas utilizadas
 - Power BI
